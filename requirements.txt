@@ -1,0 +1,13 @@
+pandas>=2.2
+scikit-learn>=1.5
+numpy>=1.26
+matplotlib>=3.9
+seaborn>=0.13
+xgboost>=2.0
+optuna>=4.0
+fastapi[standard]>=0.110
+uvicorn>=0.29
+joblib>=1.4
+httpx>=0.27
+streamlit>=1.35
+plotly>=5.20

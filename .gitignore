@@ -1,0 +1,59 @@
+# ── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ── Environment variables / secrets ─────────────────────────────────────────
+.env
+.env.*
+*.env
+secrets.yaml
+secrets.json
+
+# ── Internal documentation (kept private — not for public repo) ─────────────
+docs/
+
+# ── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS artefacts ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Claude Code local config ──────────────────────────────────────────────────
+.claude/
+
+# ── Large / generated data files ─────────────────────────────────────────────
+data/KDDTrain_20Percent_raw.txt
+data/raw_train.csv
+data/processed_train.csv
+
+# ── Optuna / experiment artefacts ────────────────────────────────────────────
+*.db
+optuna.log
+
+# ── API runtime log ──────────────────────────────────────────────────────────
+auranet_api.log
+
+# ── Build / dist ─────────────────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/

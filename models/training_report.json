@@ -1,0 +1,17 @@
+{
+  "best_f1_cv": 0.99766,
+  "test_f1_macro": 0.9972,
+  "n_trials": 60,
+  "n_completed": 48,
+  "n_train": 20154,
+  "n_features": 42,
+  "best_params": {
+    "n_estimators": 174,
+    "max_depth": 8,
+    "learning_rate": 0.21610416406085334,
+    "subsample": 0.8119167396468142,
+    "colsample_bytree": 0.5665914500396384,
+    "min_child_weight": 1,
+    "gamma": 0.10513837252702876
+  }
+}
