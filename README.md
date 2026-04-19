@@ -32,7 +32,7 @@ Trained and evaluated on the **NSL-KDD benchmark dataset** (25,192 labelled conn
 
 ## 🖥️ System HUD
 
-![Dashboard HUD](assets/dashboard.png)
+![Dashboard HUD](assets/image.png)
 
 ---
 
